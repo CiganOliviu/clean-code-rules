@@ -19,3 +19,5 @@ This leads to rule number 2.
 8) All previous name-related rules about simplicity, typos etc.
 
 9) The name of the class should be a noun or a noun phrase related.
+
+10) Don't make logical dependency between the class methods. Actually don't do it at all.
