@@ -1,0 +1,21 @@
+
+== Classes ==
+
+1) Hide internal structure, the less known the better. So use private data and probably accesors. 
+This leads to rule number 2.
+
+2) Prefer Data Structures instead of Objects.
+
+3) Avoid hybrid classes, by using them you bring a lot of rigidity to your code.
+
+4) Prefer non-static methods.
+
+5) Classes should be small.
+
+6) A base class should know nothing about their derivatives.
+
+7) Classes should refer to only one thing.
+
+8) All previous name-related rules about simplicity, typos etc.
+
+9) The name of the class should be a noun or a noun phrase related.
