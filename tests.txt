@@ -1,0 +1,12 @@
+
+== Tests ==
+
+	Tests should follow the FIRST rule:
+
+		1) FAST
+		2) INDEPENDENT
+		3) REPEATABLE
+		4) SELF-VALIDATING
+		5) TIMELY
+
+	Also respect the TESTS DESIDERATA.
