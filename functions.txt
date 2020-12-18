@@ -1,0 +1,20 @@
+
+== Functions ==
+
+1) Functions should one and only one thing.
+
+2) Follow the code-name structure.
+
+3) Simpler names are more readable and more understandable.
+
+4) Choose a name who exactly defines what the function is doing.
+
+5) The function should be small, usually smaller than you thing.
+
+6) Functions shouldn't have side effects.
+
+7) Functions should have a small number of parameters, no more than four and even four should be avoided.
+
+8) Don't use flag arguments.
+
+9) Declare them close to their usage.  
