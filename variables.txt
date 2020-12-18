@@ -1,0 +1,14 @@
+
+== Variables ==
+
+1) Follow the code-name structure.
+
+2) Simpler names are more readable and most of the time more understandable.
+
+3) Choose names that anyone can understand and write.
+
+4) Choose a name who exactly defines what the variable is holding.
+
+5) The name should always be a noun or a noun phrase related.
+
+6) Declare them close to their usage.
