@@ -1,0 +1,12 @@
+
+== Understandability ==
+
+1) Avoid negative conditionals.
+
+2) Avoid composed conditionals.
+
+3) be consistent with your code and project structure.
+
+4) prefer polymorphism over if / else if / else or switch statement.
+
+5) FOLLOW THE DAMN CLEAN CODE RULES.
