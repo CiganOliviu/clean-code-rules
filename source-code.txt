@@ -1,12 +1,12 @@
 
 == Source Code ==
 
-1) Keep it consistent
+1) Keep it consistent.
 
-2) Don't break indentation
+2) Don't break indentation.
 
-3) Don't exagerate with lines length
+3) Don't exagerate with lines length.
 
-4) Separate concepts with white space
+4) Separate concepts with white space.
 
-5) APPLY CLEAN CODE CONCEPTS ABOUT CLASSES, VARIABLES, FUNCTIONS AND TESTS
+5) APPLY CLEAN CODE CONCEPTS ABOUT CLASSES, VARIABLES, FUNCTIONS AND TESTS.

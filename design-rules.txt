@@ -1,0 +1,11 @@
+
+== Design Rules ==
+
+1) Follow the Law of Demeter.
+
+2) Follow the Boy Scout Rule.
+
+3) Keep an equilibrium between freedom and over-configurability. ( As Kent Beck said in Implementation Patterns book. Choose an 
+																   between flexibility, communication and simplicity. ).
+
+4) The Software should be simple, flexible and communicative. (Can't have all of them at the same time. ).
